@@ -1,4 +1,4 @@
-Olá, eu sou o Karen Camilly 🖐
+Olá, eu sou a Karen Camilly 🖐
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=DA70D6&height=120&section=header"/>
   
