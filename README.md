@@ -21,14 +21,14 @@
 
   
 <div align="center"> 
-  <br><p align="centre"><b>My Social Networks 💕 </b></p> 
+  <br><p align="centre"><b>MY SOCIAL NETWORKS 💕</b></p> 
   <a href="https://instagram.com/karencamilly_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href ="email:karencamilly829@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/karen-camilly-40ab68235/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
 <div align="center">
-<br><p align="centre"><b>Visitors Count 👾 </b></p> 
+<br><p align="centre"><b>VISITORS COUNT 👾</b></p> 
 <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fkarencamill&s=50&c=db006a&bg=00000000&no=7&ff=digi&tb=Visits%3A++&ta=" /></p> 
 <br></div>
 
