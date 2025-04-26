@@ -13,17 +13,22 @@
   🛠️ **Dev & Testing**
 <br/>
 
+
 <div style="display: flex; gap: 10px;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40">
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" width="40">
 </div>  
 
-<div style="position: fixed; top: 20px; right: 20px; z-index: 9999;">
-  <p style="margin: 0; text-align: center; font-weight: bold;">VISITORS COUNT 👾</p>
-  <img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fkarencamill&s=50&c=db006a&bg=00000000&no=7&ff=digi&tb=Visits%3A++&ta=" />
+<br>
+
+<div align="center"> 
+  <br><p align="centre"><b>📫 LET'S CONNECT:</b></p> 
+  <a href="https://instagram.com/karencamilly_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href ="email:karencamilly829@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/karen-camilly-40ab68235/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
- 
+
 <br>
 
 <div align="center" >
@@ -32,13 +37,6 @@
 
 </div>
 
-  
-<div align="center"> 
-  <br><p align="centre"><b>MY SOCIAL NETWORKS 💕</b></p> 
-  <a href="https://instagram.com/karencamilly_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href ="email:karencamilly829@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/karen-camilly-40ab68235/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
 
 <div align="center">
 <br><p align="centre"><b>VISITORS COUNT 👾</b></p> 
