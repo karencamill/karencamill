@@ -18,6 +18,11 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40">
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" width="40">
 </div>  
+
+<div style="position: fixed; top: 20px; right: 20px; z-index: 9999;">
+  <p style="margin: 0; text-align: center; font-weight: bold;">VISITORS COUNT 👾</p>
+  <img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fkarencamill&s=50&c=db006a&bg=00000000&no=7&ff=digi&tb=Visits%3A++&ta=" />
+</div>
  
 <br>
 
