@@ -8,13 +8,10 @@
   <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karencamill&layout=compact&hide_border=true&title_color=800080&text_color=0d1117&bg_color=D3D3D3" />
 </div>
 
-<br>
-
-  🛠️ **Dev & Testing**
 <br/>
 
-
 <div style="display: flex; gap: 10px;">
+  <br><p align="left"><b>🛠️ Dev & Testing</b></p> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40">
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" width="40">
@@ -22,8 +19,8 @@
 
 <br>
 
-<div align="center"> 
-  <br><p align="centre"><b>📫 LET'S CONNECT:</b></p> 
+<div align="right"> 
+  <br><p align="right"><b>📫 LET'S CONNECT:</b></p> 
   <a href="https://instagram.com/karencamilly_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href ="email:karencamilly829@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/karen-camilly-40ab68235/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
