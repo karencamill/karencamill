@@ -16,9 +16,10 @@
 
 <div align="right"> 
   <br><p align="right"><b>📫LET'S CONNECT:</b></p> 
-  <a href="https://instagram.com/karencamilly_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href ="email:karencamilly829@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  
   <a href="https://www.linkedin.com/in/karen-camilly-40ab68235/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+[![GitHub karencamill]( https://img.shields.io/github/followers/karencamill?label=follow&style=for-the-badge&logo=github)](https://github.com/karencamill) <br>
+ [![Gmail Badge](https://img.shields.io/badge/-karencamilly829@gmail.com-006bed?style=for-the-badge&logo=Gmail&logoColor=black&link=mailto:karencamilly829@gmail.com)](mailto:karencamilly829@gmail.com)
 </div>
 
 <br>
