@@ -15,7 +15,7 @@
 <br>
 
 <div align="right"> 
-  <br><p align="right"><b>📫 LET'S CONNECT:</b></p> 
+  <br><p align="right"><b></b></p> 
   
   <a href="https://www.linkedin.com/in/karen-camilly-40ab68235/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 [![GitHub karencamill]( https://img.shields.io/github/followers/karencamill?label=follow&style=for-the-badge&logo=github)](https://github.com/karencamill) <br>
