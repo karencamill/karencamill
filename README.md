@@ -6,7 +6,7 @@
 <br/>
 
 <div style="display: flex; gap: 10px;">
-  <br><p align="left"><b>🛠️ DEV & TESTING:</b></p> 
+  <br><p align="left"><b></b></p> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40">
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" width="40">
