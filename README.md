@@ -24,16 +24,7 @@
 
 <br>
 
-<div align="center" >
-
-</div>
-
 <br>
-
-<div align="center">  
-  <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api?username=karencamill&show_icons=true&count_private=true&hide_border=true&title_color=800080&icon_color=800080&text_color=0d1117&bg_color=D3D3D3" alt="Karen Camilly github stats" /> 
-  <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karencamill&layout=compact&hide_border=true&title_color=800080&text_color=0d1117&bg_color=D3D3D3" />
-</div>
 
 <br>
 
