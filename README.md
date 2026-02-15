@@ -15,7 +15,7 @@
 <br>
 
 <div align="right"> 
-  <br><p align="right"><b>Contact 📱</b></p> 
+  <br><p align="right"><b>Contact Me📱</b></p> 
   
   <a href="https://www.linkedin.com/in/karen-camilly-40ab68235/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  <br>
@@ -29,3 +29,4 @@
 <br>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=DA70D6&height=120&section=footer"/>
+
